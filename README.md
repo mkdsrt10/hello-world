@@ -1,2 +1,2 @@
 # hello-world
-This is my starting in gitHub
+This is my starting in gitHub.
