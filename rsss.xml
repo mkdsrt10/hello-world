@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en"
+     version="2.0">
+    <channel>
+        <title><![CDATA[Mayank]]></title>
+        <link>https://rss.com/podcasts/sasdwscx/</link>
+        <atom:link href="https://media.rss.com/sasdwscx/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+        <description><![CDATA[Podcasting my life]]></description>
+        <generator>RSS.com</generator>
+        <lastBuildDate>Sat, 18 Apr 2020 20:11:58 +0000</lastBuildDate>
+        <language>en</language>
+        <copyright><![CDATA[MAyank 2020]]></copyright>
+        <itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
+        <image>
+            <url>https://assets.rss.com/images/no-cover-1400.jpg</url>
+            <title>Mayank</title>
+            <link>https://rss.com/podcasts/sasdwscx</link>
+        </image>
+        <itunes:summary><![CDATA[Podcasting my life]]></itunes:summary>
+        <itunes:author>Mayank Dubey</itunes:author>
+        <itunes:owner>
+            <itunes:name>Mayank Dubey</itunes:name>
+            <itunes:email>dmayank0@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:category text="Arts">
+            <itunes:category text="Design"></itunes:category>
+        </itunes:category>
+        <itunes:category text="Business">
+            <itunes:category text="Entrepreneurship"></itunes:category>
+        </itunes:category>
+        <itunes:category text="Government"></itunes:category>
+        <item>
+            <title><![CDATA[No f**king !dea]]></title>
+            <itunes:title><![CDATA[No f**king !dea]]></itunes:title>
+            <itunes:summary>Demo</itunes:summary>
+            <description><![CDATA[<p>Demo</p>]]></description>
+            <link>https://rss.com/podcasts/sasdwscx/35495</link>
+            <enclosure url="https://media.rss.com/sasdwscx/20200416_001024_bc3f129bde133d486466e5ce6fe5da47.m4a"
+                       length="38312013" type="audio/x-m4a"></enclosure>
+            <guid isPermaLink="false">883be818-3091-86d9-ce59-dd6f34ae746d</guid>
+            <itunes:duration>4762</itunes:duration>
+            <itunes:episode>1</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <itunes:explicit>yes</itunes:explicit>
+            <pubDate>Thu, 16 Apr 2020 0:10:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
