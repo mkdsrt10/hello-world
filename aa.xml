@@ -1,0 +1,70 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
+    <channel>
+        <title>HALF BAKED POEMS</title>
+        <itunes:summary>
+            <![CDATA[
+This podcast is collection of imperfect poems, like everyone of us are imperfect but great in someway, same for these poems. They are imperfect but resonates with all imperfect souls living great lives in this imperfect world.
+]]>
+        </itunes:summary>
+        <description>
+            <![CDATA[
+This podcast is collection of imperfect poems, like everyone of us are imperfect but great in someway, same for these poems. They are imperfect but resonates with all imperfect souls living great lives in this imperfect world.
+]]>
+        </description>
+        <image>
+            <title>HALF BAKED POEMS</title>
+            <link/>
+            <url>
+                https://files.hubhopper.com/podcast/311676/1400x1400/half-baked-poems.jpg?v=1588880126
+            </url>
+        </image>
+        <itunes:image title="HALF BAKED POEMS" link=""
+                      href="https://files.hubhopper.com/podcast/311676/1400x1400/half-baked-poems.jpg?v=1588880126"/>
+        <googleplay:image
+                href="https://files.hubhopper.com/podcast/311676/1400x1400/half-baked-poems.jpg?v=1588880126"/>
+        <language>en</language>
+       <author>dmayank0@gmail.com</author>
+        <itunes:author>Swati choubey</itunes:author>
+        <googleplay:author>Swati choubey</googleplay:author>
+        <itunes:owner>
+            <itunes:name>Swati choubey</itunes:name>
+           <itunes:email>dmayank0@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Swati choubey</itunes:author>
+        <itunes:category text="Arts"/>
+        <category>Arts</category>
+        <link>
+            https://hubhopper.com/podcast/half-baked-poems/311676
+        </link>
+<!--        <guid>-->
+<!--            https://hubhopper.com/podcast/half-baked-poems/311676-->
+<!--        </guid>-->
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>Episode 4</title>
+            <link>https://hubhoppers.com/episode/episode-4-1588883005</link>
+<!--            <guid>https://hubhopper.com/episode/episode-4-1588883005</guid>-->
+            <pubDate>Thu, 07 May 2020 20:23:25 +0000</pubDate>
+            <itunes:summary>
+                <![CDATA[ Check out my latest episode! ]]>
+            </itunes:summary>
+            <description>
+                <![CDATA[ Check out my latest episode! ]]>
+            </description>
+            <enclosure url="https://play.hubhopper.com/fa7c32bd8758508c587b8534f1d8aeaf.mp3?s=rss-feed" length="900000"
+                      />
+            <itunes:duration>55</itunes:duration>
+            <author>dmayank0@gmail.com</author>
+            <itunes:author>Swati choubey</itunes:author>
+            <itunes:image href="https://files.hubhopper.com/podcast/311676/half-baked-poems.jpg?v=1588880126"/>
+            <itunes:image>
+                <title>half-baked-poems.jpg?v=1588880126</title>
+                <link>https://hubhoppers.com/episode/episode-4-1588883005</link>
+                <url>
+                    https://files.hubhopper.com/podcast/311676/half-baked-poems.jpg?v=1588880126
+                </url>
+            </itunes:image>
+        </item>
+    </channel>
+</rss>
