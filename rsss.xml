@@ -53,7 +53,7 @@ This podcast is collection of imperfect poems, like everyone of us are imperfect
                 <![CDATA[ Check out my latest episode! ]]>
             </description>
             <enclosure url="https://play.hubhopper.com/fa7c32bd8758508c587b8534f1d8aeaf.mp3?s=rss-feed" length="900000"
-                       type="video/mp4"/>
+                      />
             <itunes:duration>55</itunes:duration>
             <author>dmayank0@gmail.com</author>
             <itunes:author>Swati choubey</itunes:author>
